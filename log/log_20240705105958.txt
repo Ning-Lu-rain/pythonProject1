@@ -1,0 +1,694 @@
+2024-07-05 10:59:59,193 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 10:59:59,468 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:01,631 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:03,806 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:05,741 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:00:05,741 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:00:05,808 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:08,987 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:12,735 127  INFO 第1次调用API返回的结果
+2024-07-05 11:00:12,735 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:00:12,795 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:16,108 127  INFO 第0次调用API返回的结果
+2024-07-05 11:00:16,108 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:00:16,172 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:19,283 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:21,984 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:24,514 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:00:24,514 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:00:24,576 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:27,784 127  INFO 第0次调用API返回的结果
+2024-07-05 11:00:27,784 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:00:27,834 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:30,826 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:33,835 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:36,906 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:00:36,906 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:00:37,021 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:40,086 127  INFO 第0次调用API返回的结果
+2024-07-05 11:00:40,086 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:00:40,161 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:43,161 127  INFO 第0次调用API返回的结果
+2024-07-05 11:00:43,161 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:00:43,262 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:45,886 127  INFO 第0次调用API返回的结果
+2024-07-05 11:00:45,886 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:00:45,975 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:50,031 127  INFO 第0次调用API返回的结果
+2024-07-05 11:00:50,031 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:00:50,393 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:53,989 127  INFO 第0次调用API返回的结果
+2024-07-05 11:00:53,989 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:00:54,124 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:00:57,276 127  INFO 第0次调用API返回的结果
+2024-07-05 11:00:57,276 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:00:57,384 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:01:00,974 127  INFO 第0次调用API返回的结果
+2024-07-05 11:01:00,974 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:01:01,057 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:01:05,408 127  INFO 第0次调用API返回的结果
+2024-07-05 11:01:05,408 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:01:05,503 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:01:09,383 127  INFO 第0次调用API返回的结果
+2024-07-05 11:01:09,383 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:01:09,477 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:01:12,640 127  INFO 第0次调用API返回的结果
+2024-07-05 11:01:12,640 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:01:12,786 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:01:17,123 127  INFO 第0次调用API返回的结果
+2024-07-05 11:01:17,123 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:01:17,212 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:01:22,116 127  INFO 第0次调用API返回的结果
+2024-07-05 11:01:22,116 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:01:22,207 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:01:26,142 127  INFO 第0次调用API返回的结果
+2024-07-05 11:01:26,142 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:01:26,280 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:01:30,546 127  INFO 第0次调用API返回的结果
+2024-07-05 11:01:30,546 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:01:30,615 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:01:34,558 127  INFO 第0次调用API返回的结果
+2024-07-05 11:01:34,558 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:01:34,620 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:01:39,041 127  INFO 第0次调用API返回的结果
+2024-07-05 11:01:39,041 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:01:39,099 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:01:43,528 127  INFO 第0次调用API返回的结果
+2024-07-05 11:01:43,528 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:01:43,587 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:01:48,437 127  INFO 第0次调用API返回的结果
+2024-07-05 11:01:48,437 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:01:48,501 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:01:52,008 127  INFO 第0次调用API返回的结果
+2024-07-05 11:01:52,008 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:01:52,060 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:01:56,704 127  INFO 第0次调用API返回的结果
+2024-07-05 11:01:56,704 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:01:56,765 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:00,618 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:00,618 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:02:00,797 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:04,801 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:04,801 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:02:04,854 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:08,715 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:08,715 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:02:08,825 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:10,297 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:10,297 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:02:10,371 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:12,416 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:14,527 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:16,741 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:02:16,741 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:02:16,852 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:18,661 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:18,661 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:02:18,727 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:20,536 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:20,536 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:02:20,595 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:22,833 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:22,833 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:02:22,896 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:24,997 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:24,997 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:02:25,073 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:27,108 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:27,108 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:02:27,228 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:29,351 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:29,351 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:02:29,420 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:31,279 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:33,472 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:35,440 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:02:35,440 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:02:35,512 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:38,775 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:38,775 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:02:38,826 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:41,093 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:41,093 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:02:41,157 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:43,741 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:43,741 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:02:43,804 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:45,661 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:47,428 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:49,356 127  INFO 第2次调用API返回的结果
+2024-07-05 11:02:49,357 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:02:49,413 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:53,980 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:53,980 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:02:54,136 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:02:57,486 127  INFO 第0次调用API返回的结果
+2024-07-05 11:02:57,486 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:02:57,538 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:03:01,341 127  INFO 第0次调用API返回的结果
+2024-07-05 11:03:01,341 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:03:01,408 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:03:05,064 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:03:09,571 127  INFO 第1次调用API返回的结果
+2024-07-05 11:03:09,571 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:03:09,654 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:03:13,054 127  INFO 第0次调用API返回的结果
+2024-07-05 11:03:13,054 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:03:13,108 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:03:18,442 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:03:24,056 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:03:29,705 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:03:29,705 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:03:29,770 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:03:36,116 127  INFO 第0次调用API返回的结果
+2024-07-05 11:03:36,116 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:03:36,177 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:03:45,691 127  INFO 第0次调用API返回的结果
+2024-07-05 11:03:45,691 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:03:45,769 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:03:47,378 127  INFO 第0次调用API返回的结果
+2024-07-05 11:03:47,379 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:03:47,432 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:03:50,839 127  INFO 第0次调用API返回的结果
+2024-07-05 11:03:50,839 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:03:50,894 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:03:52,978 127  INFO 第0次调用API返回的结果
+2024-07-05 11:03:52,979 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:03:53,042 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:03:58,125 127  INFO 第0次调用API返回的结果
+2024-07-05 11:03:58,125 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:03:58,194 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:04:01,584 127  INFO 第0次调用API返回的结果
+2024-07-05 11:04:01,584 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:04:01,662 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:04:07,105 127  INFO 第0次调用API返回的结果
+2024-07-05 11:04:07,105 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:04:07,166 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:04:13,171 127  INFO 第0次调用API返回的结果
+2024-07-05 11:04:13,171 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:04:13,247 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:04:16,756 127  INFO 第0次调用API返回的结果
+2024-07-05 11:04:16,756 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:04:16,829 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:04:20,250 127  INFO 第0次调用API返回的结果
+2024-07-05 11:04:20,250 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:04:20,323 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:04:29,162 127  INFO 第0次调用API返回的结果
+2024-07-05 11:04:29,162 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:04:29,346 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:04:34,673 127  INFO 第0次调用API返回的结果
+2024-07-05 11:04:34,673 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:04:34,748 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:04:39,229 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:04:43,386 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:04:47,681 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:04:47,681 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:04:47,748 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:04:51,783 127  INFO 第0次调用API返回的结果
+2024-07-05 11:04:51,783 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:04:51,840 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:04:58,662 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:05,162 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:11,813 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:05:11,813 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:05:11,872 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:15,565 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:19,443 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:22,802 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:05:22,802 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:05:22,888 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:26,861 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:31,150 127  INFO 第1次调用API返回的结果
+2024-07-05 11:05:31,150 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:05:31,200 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:32,867 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:34,661 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:36,250 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:05:36,250 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:05:36,311 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:39,496 127  INFO 第0次调用API返回的结果
+2024-07-05 11:05:39,496 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:05:39,546 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:42,278 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:45,265 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:47,972 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:05:47,972 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:05:48,022 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:50,998 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:05:56,887 127  INFO 第1次调用API返回的结果
+2024-07-05 11:05:56,887 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:05:56,946 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:06:01,306 127  INFO 第0次调用API返回的结果
+2024-07-05 11:06:01,306 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:06:01,356 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:06:06,202 127  INFO 第0次调用API返回的结果
+2024-07-05 11:06:06,202 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:06:06,286 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:06:09,962 127  INFO 第0次调用API返回的结果
+2024-07-05 11:06:09,962 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:06:10,015 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:06:13,836 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:06:17,238 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:06:20,874 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:06:20,875 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:06:20,937 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:06:26,525 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:06:32,259 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:06:37,841 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:06:37,841 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:06:37,900 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:06:42,544 127  INFO 第0次调用API返回的结果
+2024-07-05 11:06:42,544 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:06:42,600 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:06:48,457 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:06:54,727 127  INFO 第1次调用API返回的结果
+2024-07-05 11:06:54,727 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:06:54,797 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:06:58,820 127  INFO 第0次调用API返回的结果
+2024-07-05 11:06:58,820 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:06:58,870 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:07:04,181 127  INFO 第0次调用API返回的结果
+2024-07-05 11:07:04,181 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:07:04,238 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:07:08,960 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:07:13,073 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:07:17,214 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:07:17,214 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:07:17,282 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:07:20,153 127  INFO 第0次调用API返回的结果
+2024-07-05 11:07:20,153 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:07:20,210 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:07:23,705 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:07:27,077 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:07:30,349 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:07:30,349 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:07:30,409 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:07:32,167 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:07:33,941 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:07:35,807 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:07:35,807 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:07:35,894 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:07:39,867 127  INFO 第0次调用API返回的结果
+2024-07-05 11:07:39,867 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:07:39,931 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:07:45,779 127  INFO 第0次调用API返回的结果
+2024-07-05 11:07:45,779 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:07:45,877 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:07:51,359 127  INFO 第0次调用API返回的结果
+2024-07-05 11:07:51,359 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:07:51,418 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:08:00,892 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:08:10,081 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:08:19,262 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:08:19,262 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:08:19,329 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:08:26,842 127  INFO 第0次调用API返回的结果
+2024-07-05 11:08:26,843 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:08:26,914 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:08:37,454 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:08:48,546 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:08:58,657 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:08:58,657 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:08:58,727 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:09:03,530 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:09:08,596 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:09:13,839 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:09:13,839 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:09:14,001 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:09:20,901 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:09:27,805 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:09:34,583 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:09:34,583 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:09:34,647 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:09:42,879 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:09:51,052 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:02,274 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:10:02,274 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:10:02,330 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:06,045 127  INFO 第0次调用API返回的结果
+2024-07-05 11:10:06,045 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:10:06,045 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:10:06,084 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 11:10:06,085 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:10:06,124 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 11:10:06,125 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:10:06,165 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 11:10:06,165 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:10:06,215 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 11:10:06,215 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:10:06,255 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 11:10:06,255 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:10:06,344 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 11:10:06,344 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:10:06,444 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:08,314 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:10,010 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:11,899 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:10:11,899 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:10:11,970 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:15,306 127  INFO 第0次调用API返回的结果
+2024-07-05 11:10:15,306 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:10:15,374 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:18,355 127  INFO 第0次调用API返回的结果
+2024-07-05 11:10:18,355 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:10:18,424 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:21,945 127  INFO 第0次调用API返回的结果
+2024-07-05 11:10:21,945 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:10:22,055 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:24,845 127  INFO 第0次调用API返回的结果
+2024-07-05 11:10:24,845 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:10:24,845 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:10:24,914 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:26,104 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:27,294 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:28,504 127  INFO 第2次调用API返回的结果
+2024-07-05 11:10:28,504 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:10:28,584 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:30,435 127  INFO 第0次调用API返回的结果
+2024-07-05 11:10:30,435 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:10:30,524 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:31,989 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:34,111 127  INFO 第1次调用API返回的结果
+2024-07-05 11:10:34,111 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:10:34,162 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:36,383 127  INFO 第0次调用API返回的结果
+2024-07-05 11:10:36,383 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:10:36,440 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:39,415 127  INFO 第0次调用API返回的结果
+2024-07-05 11:10:39,415 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:10:39,465 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:40,921 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:43,127 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:44,914 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:10:44,914 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:10:44,966 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:45,605 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:46,420 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:47,720 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:10:47,720 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:10:47,790 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:50,173 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:52,776 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:55,249 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:10:55,249 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:10:55,308 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:57,367 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:10:59,235 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:01,014 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:11:01,014 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:11:01,076 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:02,780 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:04,755 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:06,754 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:11:06,754 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:11:06,823 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:11,003 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:15,283 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:19,813 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:11:19,813 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:11:19,872 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:22,903 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:25,602 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:27,613 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:11:27,613 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:11:27,733 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:30,822 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:33,782 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:36,613 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:11:36,613 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:11:36,663 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:42,046 127  INFO 第0次调用API返回的结果
+2024-07-05 11:11:42,047 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:11:42,111 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:43,032 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:44,300 127  INFO 第1次调用API返回的结果
+2024-07-05 11:11:44,300 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:11:44,370 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:46,486 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:48,912 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:51,272 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:11:51,272 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:11:51,332 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:53,137 127  INFO 第0次调用API返回的结果
+2024-07-05 11:11:53,137 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:11:53,188 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:11:56,613 127  INFO 第0次调用API返回的结果
+2024-07-05 11:11:56,613 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:11:56,671 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:12:00,943 127  INFO 第0次调用API返回的结果
+2024-07-05 11:12:00,943 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:12:01,023 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:12:05,481 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:12:09,945 127  INFO 第1次调用API返回的结果
+2024-07-05 11:12:09,945 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:12:10,054 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:12:15,519 127  INFO 第0次调用API返回的结果
+2024-07-05 11:12:15,520 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:12:15,575 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:12:20,329 127  INFO 第0次调用API返回的结果
+2024-07-05 11:12:20,329 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:12:20,405 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:12:25,669 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:12:30,890 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:12:35,689 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:12:35,689 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:12:35,754 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:12:40,468 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:12:45,374 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:12:50,106 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:12:50,106 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:12:50,170 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:12:56,320 127  INFO 第0次调用API返回的结果
+2024-07-05 11:12:56,320 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:12:56,354 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 11:12:56,354 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:12:56,389 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 11:12:56,389 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:12:56,432 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 11:12:56,432 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:12:56,467 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 11:12:56,467 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:12:56,529 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:12:57,900 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:12:59,043 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:00,289 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:13:00,289 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:13:00,350 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:01,988 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:03,524 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:04,865 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:13:04,865 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:13:04,928 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:05,952 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:06,900 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:07,910 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:13:07,910 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:13:07,973 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:09,077 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:10,235 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:11,497 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:13:11,497 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:13:11,546 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:12,934 127  INFO 第0次调用API返回的结果
+2024-07-05 11:13:12,934 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:13:12,992 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:14,050 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:15,369 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:16,638 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:13:16,639 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:13:16,705 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:17,939 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:19,404 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:20,648 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:13:20,648 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:13:20,648 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:13:20,648 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:13:20,648 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:13:20,648 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:13:20,648 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:13:20,712 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:22,121 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:23,474 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:24,981 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:13:24,981 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:13:25,033 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:26,564 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:27,954 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:29,428 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:13:29,428 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:13:29,495 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:36,117 127  INFO 第0次调用API返回的结果
+2024-07-05 11:13:36,117 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:13:36,199 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:46,285 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:13:57,650 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:14:07,673 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:14:07,673 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:14:07,754 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:14:14,938 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:14:26,024 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:14:33,317 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:14:33,317 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:14:33,368 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:14:41,724 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:14:48,965 127  INFO 第1次调用API返回的结果
+2024-07-05 11:14:48,965 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:14:49,033 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:14:55,848 127  INFO 第0次调用API返回的结果
+2024-07-05 11:14:55,848 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:14:55,927 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:05,004 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:15,110 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:24,173 127  INFO 第2次调用API返回的结果
+2024-07-05 11:15:24,173 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:15:24,239 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:25,984 127  INFO 第0次调用API返回的结果
+2024-07-05 11:15:25,984 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:15:26,064 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:28,012 127  INFO 第0次调用API返回的结果
+2024-07-05 11:15:28,012 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:15:28,062 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:30,565 127  INFO 第0次调用API返回的结果
+2024-07-05 11:15:30,565 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:15:30,631 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:32,948 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:34,805 127  INFO 第1次调用API返回的结果
+2024-07-05 11:15:34,805 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:15:34,857 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:37,556 127  INFO 第0次调用API返回的结果
+2024-07-05 11:15:37,556 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:15:37,623 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:40,820 127  INFO 第0次调用API返回的结果
+2024-07-05 11:15:40,820 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:15:40,882 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:43,233 127  INFO 第0次调用API返回的结果
+2024-07-05 11:15:43,234 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:15:43,298 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:47,046 127  INFO 第0次调用API返回的结果
+2024-07-05 11:15:47,046 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:15:47,121 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:49,329 127  INFO 第0次调用API返回的结果
+2024-07-05 11:15:49,329 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:15:49,393 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:52,507 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:55,727 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:15:58,456 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:15:58,456 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:15:58,531 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:02,043 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:05,091 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:08,521 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:16:08,521 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:16:08,572 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:11,715 127  INFO 第0次调用API返回的结果
+2024-07-05 11:16:11,715 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:16:11,780 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:14,778 127  INFO 第0次调用API返回的结果
+2024-07-05 11:16:14,778 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:16:14,837 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:18,850 127  INFO 第0次调用API返回的结果
+2024-07-05 11:16:18,850 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:16:18,914 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:21,737 127  INFO 第0次调用API返回的结果
+2024-07-05 11:16:21,737 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:16:21,806 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:22,619 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:23,313 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:23,816 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:16:23,816 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:16:23,872 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:24,447 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:24,976 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:25,498 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:16:25,498 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:16:25,546 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:30,034 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:39,006 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:43,110 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:16:43,110 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:16:43,162 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:48,880 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:54,006 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:16:59,178 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:16:59,178 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:16:59,227 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:17:05,366 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:17:11,091 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:17:16,782 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:17:16,782 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:17:16,852 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:17:23,276 127  INFO 第0次调用API返回的结果
+2024-07-05 11:17:23,276 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:17:23,329 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:17:30,222 127  INFO 第0次调用API返回的结果
+2024-07-05 11:17:30,222 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:17:30,283 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:17:37,425 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:17:43,674 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:17:50,199 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:17:50,199 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:17:50,260 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:17:55,842 127  INFO 第0次调用API返回的结果
+2024-07-05 11:17:55,842 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:17:55,971 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:03,066 127  INFO 第0次调用API返回的结果
+2024-07-05 11:18:03,066 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:18:03,127 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:10,029 127  INFO 第0次调用API返回的结果
+2024-07-05 11:18:10,029 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:18:10,211 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:12,175 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:13,491 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:14,833 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:18:14,833 94  INFO 选出的主播是陈赫,他的风格是幽默风格
+2024-07-05 11:18:14,893 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:16,808 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:18,221 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:19,626 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:18:19,626 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:18:19,679 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:21,792 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:23,759 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:25,288 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:18:25,288 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:18:25,343 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:27,950 127  INFO 第0次调用API返回的结果
+2024-07-05 11:18:27,950 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:18:28,020 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:32,425 127  INFO 第0次调用API返回的结果
+2024-07-05 11:18:32,425 94  INFO 选出的主播是王祖蓝,他的风格是幽默风格
+2024-07-05 11:18:32,498 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:34,963 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:37,816 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:40,748 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:18:40,748 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:18:40,804 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:43,492 127  INFO 第0次调用API返回的结果
+2024-07-05 11:18:43,492 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:18:43,560 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:45,555 127  INFO 第0次调用API返回的结果
+2024-07-05 11:18:45,555 94  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-05 11:18:45,618 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:46,478 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:47,027 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:47,719 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:18:47,719 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:18:47,754 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 11:18:47,754 94  INFO 选出的主播是李诞,他的风格是幽默风格
+2024-07-05 11:18:47,823 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:48,759 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:49,440 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:49,975 125  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 11:18:49,975 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:18:50,030 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:18:58,241 127  INFO 第0次调用API返回的结果
+2024-07-05 11:18:58,241 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:18:58,311 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:19:02,817 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:19:07,826 127  INFO 第1次调用API返回的结果
+2024-07-05 11:19:07,826 94  INFO 选出的主播是杨迪,他的风格是幽默风格
+2024-07-05 11:19:07,876 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:19:12,987 127  INFO 第0次调用API返回的结果
+2024-07-05 11:19:12,987 94  INFO 选出的主播是李佳航,他的风格是幽默风格
+2024-07-05 11:19:13,038 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 11:19:17,466 127  INFO 第0次调用API返回的结果

@@ -1,0 +1,655 @@
+2024-07-05 18:38:07,779 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:07,989 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:38:10,216 136  INFO 第0次调用API返回的结果
+2024-07-05 18:38:10,216 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:10,278 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:38:13,541 136  INFO 第0次调用API返回的结果
+2024-07-05 18:38:13,541 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:13,590 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:38:16,465 136  INFO 第0次调用API返回的结果
+2024-07-05 18:38:16,465 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:16,527 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:38:19,523 136  INFO 第0次调用API返回的结果
+2024-07-05 18:38:19,523 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:19,576 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:38:23,437 136  INFO 第0次调用API返回的结果
+2024-07-05 18:38:23,437 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:23,500 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:38:27,219 136  INFO 第0次调用API返回的结果
+2024-07-05 18:38:27,219 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:27,279 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:38:30,120 136  INFO 第0次调用API返回的结果
+2024-07-05 18:38:30,120 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:30,189 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:38:33,151 136  INFO 第0次调用API返回的结果
+2024-07-05 18:38:33,151 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:33,220 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:38:35,922 136  INFO 第0次调用API返回的结果
+2024-07-05 18:38:35,922 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:35,971 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:38:40,490 136  INFO 第0次调用API返回的结果
+2024-07-05 18:38:40,490 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:40,554 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:38:46,055 136  INFO 第0次调用API返回的结果
+2024-07-05 18:38:46,055 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:46,119 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:38:49,352 136  INFO 第0次调用API返回的结果
+2024-07-05 18:38:49,352 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:49,411 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:38:53,363 136  INFO 第0次调用API返回的结果
+2024-07-05 18:38:53,363 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:53,413 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:38:56,605 136  INFO 第0次调用API返回的结果
+2024-07-05 18:38:56,605 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:38:56,667 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:01,341 136  INFO 第0次调用API返回的结果
+2024-07-05 18:39:01,341 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:39:01,396 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:03,873 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:06,458 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:09,135 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:39:09,135 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:39:09,194 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:13,037 136  INFO 第0次调用API返回的结果
+2024-07-05 18:39:13,037 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:39:13,104 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:17,543 136  INFO 第0次调用API返回的结果
+2024-07-05 18:39:17,543 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:39:17,609 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:21,596 136  INFO 第0次调用API返回的结果
+2024-07-05 18:39:21,596 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:39:21,655 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:25,416 136  INFO 第0次调用API返回的结果
+2024-07-05 18:39:25,416 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:39:25,486 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:29,135 136  INFO 第0次调用API返回的结果
+2024-07-05 18:39:29,135 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:39:29,184 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:33,429 136  INFO 第0次调用API返回的结果
+2024-07-05 18:39:33,429 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:39:33,494 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:37,205 136  INFO 第0次调用API返回的结果
+2024-07-05 18:39:37,205 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:39:37,266 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:40,432 136  INFO 第0次调用API返回的结果
+2024-07-05 18:39:40,432 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:39:40,502 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:44,743 136  INFO 第0次调用API返回的结果
+2024-07-05 18:39:44,743 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:39:44,791 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:48,952 136  INFO 第0次调用API返回的结果
+2024-07-05 18:39:48,952 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:39:49,005 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:52,565 136  INFO 第0次调用API返回的结果
+2024-07-05 18:39:52,565 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:39:52,633 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:56,350 136  INFO 第0次调用API返回的结果
+2024-07-05 18:39:56,350 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:39:56,411 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:39:59,979 136  INFO 第0次调用API返回的结果
+2024-07-05 18:39:59,979 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:00,026 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:01,817 136  INFO 第0次调用API返回的结果
+2024-07-05 18:40:01,817 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:01,898 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:03,595 136  INFO 第0次调用API返回的结果
+2024-07-05 18:40:03,595 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:03,655 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:04,997 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:40:04,997 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:05,048 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:07,014 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:08,526 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:09,919 132  INFO 最后一次调用API返回的结果，【】有变化。
+2024-07-05 18:40:09,919 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:40:09,919 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:09,975 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:12,379 136  INFO 第0次调用API返回的结果
+2024-07-05 18:40:12,379 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:12,442 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:15,826 136  INFO 第0次调用API返回的结果
+2024-07-05 18:40:15,826 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:15,882 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:17,672 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:40:17,672 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:17,733 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:19,759 136  INFO 第0次调用API返回的结果
+2024-07-05 18:40:19,759 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:19,814 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:21,801 136  INFO 第0次调用API返回的结果
+2024-07-05 18:40:21,801 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:21,862 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:25,752 136  INFO 第0次调用API返回的结果
+2024-07-05 18:40:25,752 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:25,816 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:29,194 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:31,971 136  INFO 第1次调用API返回的结果
+2024-07-05 18:40:31,971 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:32,030 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:36,073 136  INFO 第0次调用API返回的结果
+2024-07-05 18:40:36,073 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:36,179 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:38,694 136  INFO 第0次调用API返回的结果
+2024-07-05 18:40:38,694 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:38,754 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:42,591 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:46,647 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:50,674 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:40:50,674 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:50,739 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:53,751 136  INFO 第0次调用API返回的结果
+2024-07-05 18:40:53,751 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:53,809 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:40:57,779 136  INFO 第0次调用API返回的结果
+2024-07-05 18:40:57,779 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:40:57,913 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:41:01,422 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:41:05,014 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:41:08,749 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:41:08,749 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:41:08,797 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:41:12,175 136  INFO 第0次调用API返回的结果
+2024-07-05 18:41:12,175 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:41:12,228 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:41:17,852 136  INFO 第0次调用API返回的结果
+2024-07-05 18:41:17,852 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:41:17,922 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:41:25,065 136  INFO 第0次调用API返回的结果
+2024-07-05 18:41:25,065 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:41:25,125 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:41:31,260 136  INFO 第0次调用API返回的结果
+2024-07-05 18:41:31,260 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:41:31,320 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:41:33,078 136  INFO 第0次调用API返回的结果
+2024-07-05 18:41:33,078 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:41:33,128 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:41:36,345 136  INFO 第0次调用API返回的结果
+2024-07-05 18:41:36,345 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:41:36,421 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:41:39,022 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:41:39,022 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:41:39,070 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:41:46,103 136  INFO 第0次调用API返回的结果
+2024-07-05 18:41:46,103 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:41:46,151 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:41:50,479 136  INFO 第0次调用API返回的结果
+2024-07-05 18:41:50,479 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:41:50,542 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:41:55,122 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:41:55,122 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:41:55,192 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:42:00,189 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:42:00,189 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:42:00,263 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:42:03,882 136  INFO 第0次调用API返回的结果
+2024-07-05 18:42:03,882 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:42:03,950 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:42:07,636 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:42:10,909 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:42:14,057 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:42:14,057 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:42:14,122 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:42:19,302 136  INFO 第0次调用API返回的结果
+2024-07-05 18:42:19,302 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:42:19,358 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:42:23,260 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:42:27,251 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:42:31,334 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:42:31,334 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:42:31,438 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:42:35,585 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:42:35,586 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:42:35,653 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:42:39,528 136  INFO 第0次调用API返回的结果
+2024-07-05 18:42:39,528 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:42:39,584 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:42:45,614 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:42:51,734 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:42:57,852 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:42:57,852 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:42:57,950 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:01,469 136  INFO 第0次调用API返回的结果
+2024-07-05 18:43:01,469 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:43:01,518 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:04,986 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:43:04,986 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:43:05,051 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:07,138 136  INFO 第0次调用API返回的结果
+2024-07-05 18:43:07,138 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:43:07,187 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:09,971 136  INFO 第0次调用API返回的结果
+2024-07-05 18:43:09,971 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:43:10,019 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:13,272 136  INFO 第0次调用API返回的结果
+2024-07-05 18:43:13,272 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:43:13,321 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:16,241 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:19,132 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:22,139 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:43:22,139 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:43:22,186 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:26,738 136  INFO 第0次调用API返回的结果
+2024-07-05 18:43:26,738 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:43:26,786 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:30,864 136  INFO 第0次调用API返回的结果
+2024-07-05 18:43:30,864 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:43:30,961 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:34,199 136  INFO 第0次调用API返回的结果
+2024-07-05 18:43:34,199 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:43:34,251 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:38,034 136  INFO 第0次调用API返回的结果
+2024-07-05 18:43:38,034 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:43:38,087 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:43,018 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:47,960 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:53,309 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:43:53,309 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:43:53,366 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:43:57,957 136  INFO 第0次调用API返回的结果
+2024-07-05 18:43:57,957 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:43:58,008 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:03,338 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:08,475 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:13,360 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:44:13,360 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:44:13,435 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:16,869 136  INFO 第0次调用API返回的结果
+2024-07-05 18:44:16,869 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:44:16,920 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:22,448 136  INFO 第0次调用API返回的结果
+2024-07-05 18:44:22,448 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:44:22,496 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:26,596 136  INFO 第0次调用API返回的结果
+2024-07-05 18:44:26,596 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:44:26,647 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:29,796 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:44:29,796 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:44:29,941 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:33,611 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:36,643 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:39,928 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:44:39,929 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:44:40,000 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:41,840 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:43,975 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:46,078 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:44:46,078 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:44:46,146 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:49,705 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:53,046 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:44:56,391 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:44:56,391 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:44:56,464 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:45:02,256 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:45:02,256 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:45:02,318 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:45:07,777 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:45:13,304 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:45:18,947 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:45:18,947 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:45:19,008 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:45:27,482 136  INFO 第0次调用API返回的结果
+2024-07-05 18:45:27,483 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:45:27,540 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:45:36,134 136  INFO 第0次调用API返回的结果
+2024-07-05 18:45:36,134 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:45:36,194 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:45:45,116 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:45:45,116 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:45:45,180 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:45:50,610 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:45:55,756 136  INFO 第1次调用API返回的结果
+2024-07-05 18:45:55,756 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:45:55,815 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:46:02,864 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:46:09,889 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:46:16,441 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:46:16,441 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:16,500 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:46:24,764 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:46:32,510 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:46:40,775 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:46:40,775 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:40,825 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:46:44,150 136  INFO 第0次调用API返回的结果
+2024-07-05 18:46:44,150 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:44,150 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:44,183 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 18:46:44,183 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:44,215 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 18:46:44,216 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:44,247 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 18:46:44,248 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:44,282 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 18:46:44,283 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:44,316 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 18:46:44,316 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:44,349 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 18:46:44,349 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:44,404 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:46:46,335 136  INFO 第0次调用API返回的结果
+2024-07-05 18:46:46,335 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:46,393 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:46:49,341 136  INFO 第0次调用API返回的结果
+2024-07-05 18:46:49,341 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:49,412 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:46:51,754 136  INFO 第0次调用API返回的结果
+2024-07-05 18:46:51,754 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:51,803 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:46:54,496 136  INFO 第0次调用API返回的结果
+2024-07-05 18:46:54,496 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:54,543 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:46:57,277 136  INFO 第0次调用API返回的结果
+2024-07-05 18:46:57,277 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:57,277 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:57,339 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:46:59,090 136  INFO 第0次调用API返回的结果
+2024-07-05 18:46:59,090 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:46:59,149 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:00,972 136  INFO 第0次调用API返回的结果
+2024-07-05 18:47:00,972 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:47:01,036 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:02,722 136  INFO 第0次调用API返回的结果
+2024-07-05 18:47:02,722 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:47:02,783 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:04,264 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:05,758 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:47:05,759 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:47:05,816 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:08,110 136  INFO 第0次调用API返回的结果
+2024-07-05 18:47:08,110 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:47:08,172 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:09,719 136  INFO 第0次调用API返回的结果
+2024-07-05 18:47:09,719 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:47:09,775 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:10,803 136  INFO 第0次调用API返回的结果
+2024-07-05 18:47:10,804 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:47:10,863 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:13,596 136  INFO 第0次调用API返回的结果
+2024-07-05 18:47:13,596 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:47:13,662 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:15,519 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:17,372 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:19,243 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:47:19,243 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:47:19,290 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:21,197 136  INFO 第0次调用API返回的结果
+2024-07-05 18:47:21,197 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:47:21,297 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:25,672 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:29,844 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:33,692 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:47:33,692 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:47:33,746 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:36,233 136  INFO 第0次调用API返回的结果
+2024-07-05 18:47:36,233 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:47:36,294 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:39,251 136  INFO 第0次调用API返回的结果
+2024-07-05 18:47:39,251 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:47:39,300 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:44,880 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:47,529 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:52,843 132  INFO 最后一次调用API返回的结果，【】有变化。
+2024-07-05 18:47:52,843 136  INFO 第2次调用API返回的结果
+2024-07-05 18:47:52,843 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:47:52,890 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:54,459 136  INFO 第0次调用API返回的结果
+2024-07-05 18:47:54,459 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:47:54,529 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:56,451 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:47:58,523 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:00,703 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:48:00,703 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:48:00,758 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:01,836 136  INFO 第0次调用API返回的结果
+2024-07-05 18:48:01,836 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:48:01,929 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:05,295 136  INFO 第0次调用API返回的结果
+2024-07-05 18:48:05,295 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:48:05,376 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:09,640 136  INFO 第0次调用API返回的结果
+2024-07-05 18:48:09,640 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:48:09,740 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:13,613 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:17,713 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:21,570 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:48:21,570 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:48:21,624 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:25,940 136  INFO 第0次调用API返回的结果
+2024-07-05 18:48:25,940 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:48:25,990 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:30,670 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:34,913 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:39,361 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:48:39,361 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:48:39,412 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:44,257 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:48,912 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:53,361 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:48:53,361 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:48:53,425 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:48:57,897 136  INFO 第0次调用API返回的结果
+2024-07-05 18:48:57,897 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:48:57,947 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:03,845 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:09,864 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:15,824 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:49:15,824 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:15,858 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 18:49:15,858 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:15,891 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 18:49:15,891 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:16,018 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 18:49:16,018 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:16,062 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 18:49:16,063 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:16,136 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:17,559 136  INFO 第0次调用API返回的结果
+2024-07-05 18:49:17,560 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:17,609 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:19,306 136  INFO 第0次调用API返回的结果
+2024-07-05 18:49:19,306 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:19,361 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:20,858 136  INFO 第0次调用API返回的结果
+2024-07-05 18:49:20,858 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:20,918 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:22,372 136  INFO 第0次调用API返回的结果
+2024-07-05 18:49:22,372 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:22,430 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:23,816 136  INFO 第0次调用API返回的结果
+2024-07-05 18:49:23,816 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:23,874 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:25,449 136  INFO 第0次调用API返回的结果
+2024-07-05 18:49:25,449 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:25,502 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:27,118 136  INFO 第0次调用API返回的结果
+2024-07-05 18:49:27,118 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:27,118 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:27,118 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:27,118 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:27,118 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:27,118 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:27,169 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:28,353 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:29,580 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:30,845 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:49:30,845 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:30,904 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:32,418 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:33,923 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:35,604 136  INFO 第2次调用API返回的结果
+2024-07-05 18:49:35,604 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:35,660 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:42,407 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:49:42,407 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:42,456 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:50,915 136  INFO 第0次调用API返回的结果
+2024-07-05 18:49:50,915 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:49:50,965 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:49:58,101 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:50:05,786 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:50:12,464 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:50:12,464 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:50:12,519 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:50:19,262 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:50:26,795 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:50:33,298 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:50:33,298 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:50:33,373 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:50:40,555 136  INFO 第0次调用API返回的结果
+2024-07-05 18:50:40,555 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:50:40,616 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:50:48,768 136  INFO 第0次调用API返回的结果
+2024-07-05 18:50:48,768 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:50:48,899 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:50:50,522 136  INFO 第0次调用API返回的结果
+2024-07-05 18:50:50,522 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:50:50,591 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:50:52,578 136  INFO 第0次调用API返回的结果
+2024-07-05 18:50:52,578 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:50:52,626 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:50:54,901 136  INFO 第0次调用API返回的结果
+2024-07-05 18:50:54,901 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:50:54,971 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:50:57,439 136  INFO 第0次调用API返回的结果
+2024-07-05 18:50:57,439 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:50:57,516 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:50:59,896 136  INFO 第0次调用API返回的结果
+2024-07-05 18:50:59,896 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:50:59,957 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:02,612 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:51:02,612 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:51:02,680 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:04,989 136  INFO 第0次调用API返回的结果
+2024-07-05 18:51:04,989 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:51:05,051 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:06,909 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:51:06,909 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:51:06,958 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:09,519 136  INFO 第0次调用API返回的结果
+2024-07-05 18:51:09,519 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:51:09,576 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:12,267 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:15,075 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:17,948 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:51:17,948 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:51:18,006 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:20,899 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:23,816 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:26,685 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:51:26,685 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:51:26,829 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:29,788 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:32,675 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:35,137 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:51:35,137 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:51:35,206 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:38,438 136  INFO 第0次调用API返回的结果
+2024-07-05 18:51:38,438 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:51:38,498 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:41,286 136  INFO 第0次调用API返回的结果
+2024-07-05 18:51:41,287 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:51:41,349 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:43,725 136  INFO 第0次调用API返回的结果
+2024-07-05 18:51:43,725 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:51:43,815 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:45,436 136  INFO 第0次调用API返回的结果
+2024-07-05 18:51:45,436 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:51:45,493 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:47,201 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:47,795 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:48,304 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:51:48,304 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:51:48,360 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:52,368 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:51:56,506 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:52:00,398 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:52:00,398 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:52:00,449 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:52:05,177 136  INFO 第0次调用API返回的结果
+2024-07-05 18:52:05,177 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:52:05,246 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:52:10,378 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:52:10,378 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:52:10,426 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:52:15,445 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:52:20,734 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:52:25,825 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:52:25,825 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:52:25,879 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:52:32,762 136  INFO 第0次调用API返回的结果
+2024-07-05 18:52:32,762 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:52:32,824 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:52:38,555 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:52:44,827 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:52:50,956 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:52:50,956 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:52:51,016 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:52:56,719 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:01,931 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:07,108 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:53:07,108 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:53:07,169 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:12,732 136  INFO 第0次调用API返回的结果
+2024-07-05 18:53:12,732 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:53:12,783 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:18,827 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:24,500 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:30,480 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:53:30,480 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:53:30,529 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:32,314 136  INFO 第0次调用API返回的结果
+2024-07-05 18:53:32,315 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:53:32,366 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:34,106 136  INFO 第0次调用API返回的结果
+2024-07-05 18:53:34,106 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:53:34,170 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:35,916 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:37,613 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:39,040 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:53:39,040 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:53:39,100 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:41,853 136  INFO 第0次调用API返回的结果
+2024-07-05 18:53:41,853 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:53:41,917 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:45,515 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:49,048 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:52,747 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:53:52,747 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:53:52,806 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:55,207 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:53:57,616 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:00,006 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:54:00,006 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:54:00,075 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:03,925 136  INFO 第0次调用API返回的结果
+2024-07-05 18:54:03,926 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:54:03,981 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:05,702 136  INFO 第0次调用API返回的结果
+2024-07-05 18:54:05,702 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:54:05,753 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:07,027 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:07,948 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:10,691 136  INFO 第2次调用API返回的结果
+2024-07-05 18:54:10,691 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:54:10,725 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 18:54:10,725 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:54:10,826 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:11,470 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:12,227 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:12,822 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 18:54:12,822 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:54:12,884 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:18,076 136  INFO 第0次调用API返回的结果
+2024-07-05 18:54:18,076 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:54:18,122 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:22,586 136  INFO 第0次调用API返回的结果
+2024-07-05 18:54:22,586 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:54:22,691 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:27,457 136  INFO 第0次调用API返回的结果
+2024-07-05 18:54:27,457 95  INFO 选出的主播是李佳琦,他的风格是专业度高
+2024-07-05 18:54:27,522 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:31,735 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:35,859 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 18:54:39,986 132  INFO 最后一次调用API返回的结果，【】有变化。
+2024-07-05 18:54:39,986 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。

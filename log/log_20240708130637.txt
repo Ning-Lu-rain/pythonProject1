@@ -1,0 +1,34 @@
+2024-07-08 13:06:37,988 65  INFO 选出的主播是李子柒,他的风格是传统文化
+2024-07-08 13:06:38,287 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 13:06:40,937 106  INFO 第0次调用API返回的结果
+2024-07-08 13:06:40,937 65  INFO 选出的主播是李子柒,他的风格是传统文化
+2024-07-08 13:06:41,043 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 13:06:44,771 106  INFO 第0次调用API返回的结果
+2024-07-08 13:06:44,771 65  INFO 选出的主播是李子柒,他的风格是传统文化
+2024-07-08 13:06:44,841 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 13:06:48,113 106  INFO 第0次调用API返回的结果
+2024-07-08 13:06:48,113 65  INFO 选出的主播是李子柒,他的风格是传统文化
+2024-07-08 13:06:48,177 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 13:06:50,894 106  INFO 第0次调用API返回的结果
+2024-07-08 13:06:50,894 65  INFO 选出的主播是李子柒,他的风格是传统文化
+2024-07-08 13:06:50,958 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 13:06:53,881 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 13:06:56,880 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 13:06:59,541 104  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 13:06:59,541 65  INFO 选出的主播是李子柒,他的风格是传统文化
+2024-07-08 13:06:59,640 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 13:07:03,691 106  INFO 第0次调用API返回的结果
+2024-07-08 13:07:03,691 65  INFO 选出的主播是李子柒,他的风格是传统文化
+2024-07-08 13:07:03,750 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 13:07:07,121 106  INFO 第0次调用API返回的结果
+2024-07-08 13:07:07,121 65  INFO 选出的主播是李子柒,他的风格是传统文化
+2024-07-08 13:07:07,191 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 13:07:09,421 106  INFO 第0次调用API返回的结果
+2024-07-08 13:07:09,421 65  INFO 选出的主播是李子柒,他的风格是传统文化
+2024-07-08 13:07:09,487 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 13:07:12,635 106  INFO 第0次调用API返回的结果
+2024-07-08 13:07:12,635 65  INFO 选出的主播是李子柒,他的风格是传统文化
+2024-07-08 13:07:12,695 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 13:07:16,291 106  INFO 第0次调用API返回的结果
+2024-07-08 13:07:16,291 65  INFO 选出的主播是李子柒,他的风格是传统文化
+2024-07-08 13:07:16,410 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"

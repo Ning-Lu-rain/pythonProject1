@@ -1,0 +1,617 @@
+2024-07-08 11:10:32,062 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:10:32,279 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:10:35,376 138  INFO 第0次调用API返回的结果
+2024-07-08 11:10:35,376 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:10:35,436 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:10:39,691 138  INFO 第0次调用API返回的结果
+2024-07-08 11:10:39,691 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:10:39,757 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:10:42,920 138  INFO 第0次调用API返回的结果
+2024-07-08 11:10:42,920 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:10:42,985 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:10:46,407 138  INFO 第0次调用API返回的结果
+2024-07-08 11:10:46,408 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:10:46,488 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:10:50,398 138  INFO 第0次调用API返回的结果
+2024-07-08 11:10:50,398 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:10:50,471 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:10:54,491 138  INFO 第0次调用API返回的结果
+2024-07-08 11:10:54,491 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:10:54,551 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:10:58,041 138  INFO 第0次调用API返回的结果
+2024-07-08 11:10:58,041 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:10:58,109 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:11:01,585 138  INFO 第0次调用API返回的结果
+2024-07-08 11:11:01,585 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:11:01,646 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:11:06,116 138  INFO 第0次调用API返回的结果
+2024-07-08 11:11:06,116 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:11:06,174 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:11:11,640 138  INFO 第0次调用API返回的结果
+2024-07-08 11:11:11,640 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:11:11,713 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:11:17,238 138  INFO 第0次调用API返回的结果
+2024-07-08 11:11:17,238 97  INFO 选出的主播是张沫凡,他的风格是亲和力强
+2024-07-08 11:11:17,315 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:11:22,830 138  INFO 第0次调用API返回的结果
+2024-07-08 11:11:22,830 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:11:22,899 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:11:27,470 138  INFO 第0次调用API返回的结果
+2024-07-08 11:11:27,470 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:11:27,555 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:11:32,248 138  INFO 第0次调用API返回的结果
+2024-07-08 11:11:32,248 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:11:32,306 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:11:38,373 138  INFO 第0次调用API返回的结果
+2024-07-08 11:11:38,373 97  INFO 选出的主播是张沫凡,他的风格是亲和力强
+2024-07-08 11:11:38,661 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:11:44,048 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:11:49,075 138  INFO 第1次调用API返回的结果
+2024-07-08 11:11:49,075 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:11:49,150 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:11:54,929 138  INFO 第0次调用API返回的结果
+2024-07-08 11:11:54,929 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:11:54,981 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:12:00,491 138  INFO 第0次调用API返回的结果
+2024-07-08 11:12:00,491 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:12:00,550 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:12:06,309 138  INFO 第0次调用API返回的结果
+2024-07-08 11:12:06,309 97  INFO 选出的主播是张沫凡,他的风格是亲和力强
+2024-07-08 11:12:06,371 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:12:11,731 138  INFO 第0次调用API返回的结果
+2024-07-08 11:12:11,731 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:12:11,826 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:12:17,439 138  INFO 第0次调用API返回的结果
+2024-07-08 11:12:17,439 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:12:17,517 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:12:22,268 138  INFO 第0次调用API返回的结果
+2024-07-08 11:12:22,268 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:12:22,364 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:12:28,028 138  INFO 第0次调用API返回的结果
+2024-07-08 11:12:28,028 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:12:28,675 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:12:34,145 138  INFO 第0次调用API返回的结果
+2024-07-08 11:12:34,145 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:12:34,388 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:12:41,401 138  INFO 第0次调用API返回的结果
+2024-07-08 11:12:41,401 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:12:41,659 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:12:49,619 138  INFO 第0次调用API返回的结果
+2024-07-08 11:12:49,619 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:12:49,686 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:12:58,825 138  INFO 第0次调用API返回的结果
+2024-07-08 11:12:58,825 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:12:58,879 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:13:05,767 138  INFO 第0次调用API返回的结果
+2024-07-08 11:13:05,767 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:13:05,836 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:13:11,971 138  INFO 第0次调用API返回的结果
+2024-07-08 11:13:11,971 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:13:12,037 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:13:15,542 138  INFO 第0次调用API返回的结果
+2024-07-08 11:13:15,542 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:13:15,606 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:13:19,901 138  INFO 第0次调用API返回的结果
+2024-07-08 11:13:19,901 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:13:20,195 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:13:23,903 138  INFO 第0次调用API返回的结果
+2024-07-08 11:13:23,903 97  INFO 选出的主播是张沫凡,他的风格是亲和力强
+2024-07-08 11:13:23,993 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:13:26,892 138  INFO 第0次调用API返回的结果
+2024-07-08 11:13:26,892 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:13:27,524 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:13:30,843 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:13:34,472 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:13:37,783 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:13:37,783 97  INFO 选出的主播是张天爱,他的风格是亲和力强
+2024-07-08 11:13:38,040 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:13:41,340 138  INFO 第0次调用API返回的结果
+2024-07-08 11:13:41,340 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:13:41,831 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:13:46,874 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:13:49,370 138  INFO 第1次调用API返回的结果
+2024-07-08 11:13:49,370 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:13:49,445 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:13:52,727 138  INFO 第0次调用API返回的结果
+2024-07-08 11:13:52,727 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:13:52,801 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:13:56,300 138  INFO 第0次调用API返回的结果
+2024-07-08 11:13:56,300 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:13:56,377 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:14:02,448 138  INFO 第0次调用API返回的结果
+2024-07-08 11:14:02,448 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:14:02,538 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:14:06,362 138  INFO 第0次调用API返回的结果
+2024-07-08 11:14:06,362 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:14:06,424 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:14:11,135 138  INFO 第0次调用API返回的结果
+2024-07-08 11:14:11,135 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:14:11,207 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:14:14,907 138  INFO 第0次调用API返回的结果
+2024-07-08 11:14:14,907 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:14:14,994 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:14:20,772 138  INFO 第0次调用API返回的结果
+2024-07-08 11:14:20,772 97  INFO 选出的主播是张天爱,他的风格是亲和力强
+2024-07-08 11:14:20,832 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:14:25,568 138  INFO 第0次调用API返回的结果
+2024-07-08 11:14:25,568 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:14:25,636 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:14:30,842 138  INFO 第0次调用API返回的结果
+2024-07-08 11:14:30,842 97  INFO 选出的主播是张沫凡,他的风格是亲和力强
+2024-07-08 11:14:30,922 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:14:38,177 138  INFO 第0次调用API返回的结果
+2024-07-08 11:14:38,177 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:14:38,231 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:14:43,989 138  INFO 第0次调用API返回的结果
+2024-07-08 11:14:43,989 97  INFO 选出的主播是张沫凡,他的风格是亲和力强
+2024-07-08 11:14:44,038 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:14:53,817 138  INFO 第0次调用API返回的结果
+2024-07-08 11:14:53,817 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:14:53,866 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:15:03,799 138  INFO 第0次调用API返回的结果
+2024-07-08 11:15:03,799 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:15:03,865 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:15:14,056 138  INFO 第0次调用API返回的结果
+2024-07-08 11:15:14,056 97  INFO 选出的主播是张天爱,他的风格是亲和力强
+2024-07-08 11:15:14,103 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:15:16,775 138  INFO 第0次调用API返回的结果
+2024-07-08 11:15:16,775 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:15:16,853 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:15:21,486 138  INFO 第0次调用API返回的结果
+2024-07-08 11:15:21,486 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:15:21,550 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:15:24,726 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:15:24,726 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:15:24,788 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:15:33,456 138  INFO 第0次调用API返回的结果
+2024-07-08 11:15:33,456 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:15:33,518 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:15:39,209 138  INFO 第0次调用API返回的结果
+2024-07-08 11:15:39,209 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:15:39,256 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:15:46,442 138  INFO 第0次调用API返回的结果
+2024-07-08 11:15:46,442 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:15:46,510 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:15:52,097 138  INFO 第0次调用API返回的结果
+2024-07-08 11:15:52,097 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:15:52,148 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:15:57,006 138  INFO 第0次调用API返回的结果
+2024-07-08 11:15:57,006 97  INFO 选出的主播是张沫凡,他的风格是亲和力强
+2024-07-08 11:15:57,065 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:16:03,660 138  INFO 第0次调用API返回的结果
+2024-07-08 11:16:03,660 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:16:03,722 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:16:11,350 138  INFO 第0次调用API返回的结果
+2024-07-08 11:16:11,350 97  INFO 选出的主播是张天爱,他的风格是亲和力强
+2024-07-08 11:16:11,412 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:16:17,131 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:16:23,224 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:16:30,082 138  INFO 第2次调用API返回的结果
+2024-07-08 11:16:30,082 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:16:30,145 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:16:36,113 138  INFO 第0次调用API返回的结果
+2024-07-08 11:16:36,113 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:16:36,175 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:16:41,925 138  INFO 第0次调用API返回的结果
+2024-07-08 11:16:41,925 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:16:42,018 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:16:50,158 138  INFO 第0次调用API返回的结果
+2024-07-08 11:16:50,158 97  INFO 选出的主播是张沫凡,他的风格是亲和力强
+2024-07-08 11:16:50,221 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:16:55,596 138  INFO 第0次调用API返回的结果
+2024-07-08 11:16:55,596 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:16:55,658 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:17:01,023 138  INFO 第0次调用API返回的结果
+2024-07-08 11:17:01,023 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:17:01,101 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:17:04,038 138  INFO 第0次调用API返回的结果
+2024-07-08 11:17:04,038 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:17:04,116 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:17:08,710 138  INFO 第0次调用API返回的结果
+2024-07-08 11:17:08,710 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:17:08,757 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:17:13,871 138  INFO 第0次调用API返回的结果
+2024-07-08 11:17:13,871 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:17:13,937 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:17:19,049 138  INFO 第0次调用API返回的结果
+2024-07-08 11:17:19,049 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:17:19,105 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:17:24,772 138  INFO 第0次调用API返回的结果
+2024-07-08 11:17:24,772 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:17:24,851 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:17:31,142 138  INFO 第0次调用API返回的结果
+2024-07-08 11:17:31,142 97  INFO 选出的主播是张沫凡,他的风格是亲和力强
+2024-07-08 11:17:31,204 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:17:36,547 138  INFO 第0次调用API返回的结果
+2024-07-08 11:17:36,547 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:17:36,610 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:17:42,218 138  INFO 第0次调用API返回的结果
+2024-07-08 11:17:42,218 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:17:42,281 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:17:50,375 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:17:57,507 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:18:03,894 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:18:03,894 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:18:03,957 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:18:14,367 138  INFO 第0次调用API返回的结果
+2024-07-08 11:18:14,367 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:18:14,428 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:18:30,193 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:18:35,662 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:18:45,536 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:18:45,536 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:18:45,614 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:18:56,097 138  INFO 第0次调用API返回的结果
+2024-07-08 11:18:56,097 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:18:56,175 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:19:01,784 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:19:01,784 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:19:01,831 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:19:06,143 138  INFO 第0次调用API返回的结果
+2024-07-08 11:19:06,143 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:19:06,190 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:19:11,752 138  INFO 第0次调用API返回的结果
+2024-07-08 11:19:11,752 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:19:11,814 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:19:15,236 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:19:19,844 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:19:24,219 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:19:24,219 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:19:24,281 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:19:27,469 138  INFO 第0次调用API返回的结果
+2024-07-08 11:19:27,469 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:19:27,531 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:19:32,385 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:19:39,771 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:19:45,682 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:19:45,682 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:19:45,744 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:19:52,357 138  INFO 第0次调用API返回的结果
+2024-07-08 11:19:52,357 97  INFO 选出的主播是张天爱,他的风格是亲和力强
+2024-07-08 11:19:52,425 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:19:59,750 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:20:07,424 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:20:07,424 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:20:07,560 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:20:16,252 138  INFO 第0次调用API返回的结果
+2024-07-08 11:20:16,252 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:20:16,314 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:20:26,565 138  INFO 第0次调用API返回的结果
+2024-07-08 11:20:26,565 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:20:26,624 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:20:37,331 138  INFO 第0次调用API返回的结果
+2024-07-08 11:20:37,331 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:20:37,393 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:20:43,985 138  INFO 第0次调用API返回的结果
+2024-07-08 11:20:43,985 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:20:44,049 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:20:51,922 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:20:59,423 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:06,845 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:21:06,845 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:21:06,892 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:15,774 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:24,936 138  INFO 第1次调用API返回的结果
+2024-07-08 11:21:24,936 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:21:25,005 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:28,785 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:32,369 138  INFO 第1次调用API返回的结果
+2024-07-08 11:21:32,369 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:21:32,369 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:21:32,400 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-08 11:21:32,400 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:21:32,431 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-08 11:21:32,431 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:21:32,462 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-08 11:21:32,462 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:21:32,509 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-08 11:21:32,509 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:21:32,540 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-08 11:21:32,540 97  INFO 选出的主播是张沫凡,他的风格是亲和力强
+2024-07-08 11:21:32,572 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-08 11:21:32,572 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:21:32,665 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:34,822 138  INFO 第0次调用API返回的结果
+2024-07-08 11:21:34,822 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:21:34,875 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:38,194 138  INFO 第0次调用API返回的结果
+2024-07-08 11:21:38,194 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:21:38,258 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:42,256 138  INFO 第0次调用API返回的结果
+2024-07-08 11:21:42,256 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:21:42,335 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:46,035 138  INFO 第0次调用API返回的结果
+2024-07-08 11:21:46,035 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:21:46,105 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:49,119 138  INFO 第0次调用API返回的结果
+2024-07-08 11:21:49,119 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:21:49,119 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:21:49,184 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:50,144 138  INFO 第0次调用API返回的结果
+2024-07-08 11:21:50,144 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:21:50,194 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:52,214 138  INFO 第0次调用API返回的结果
+2024-07-08 11:21:52,214 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:21:52,276 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:53,866 138  INFO 第0次调用API返回的结果
+2024-07-08 11:21:53,866 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:21:53,914 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:56,635 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:21:56,635 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:21:56,690 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:21:58,883 138  INFO 第0次调用API返回的结果
+2024-07-08 11:21:58,883 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:21:58,950 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:00,596 138  INFO 第0次调用API返回的结果
+2024-07-08 11:22:00,596 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:22:00,651 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:01,629 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:02,323 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:03,863 138  INFO 第2次调用API返回的结果
+2024-07-08 11:22:03,863 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:22:03,923 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:07,093 138  INFO 第0次调用API返回的结果
+2024-07-08 11:22:07,093 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:22:07,162 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:09,183 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:22:09,183 97  INFO 选出的主播是张沫凡,他的风格是亲和力强
+2024-07-08 11:22:09,243 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:10,873 138  INFO 第0次调用API返回的结果
+2024-07-08 11:22:10,873 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:22:10,953 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:15,406 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:20,087 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:24,989 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:22:24,989 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:22:25,056 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:28,605 138  INFO 第0次调用API返回的结果
+2024-07-08 11:22:28,605 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:22:28,681 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:33,071 138  INFO 第0次调用API返回的结果
+2024-07-08 11:22:33,071 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:22:33,130 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:38,405 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:42,580 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:47,388 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:22:47,388 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:22:47,449 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:49,772 138  INFO 第0次调用API返回的结果
+2024-07-08 11:22:49,772 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:22:49,841 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:53,404 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:22:56,721 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:23:00,136 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:23:00,136 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:23:00,199 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:23:03,061 138  INFO 第0次调用API返回的结果
+2024-07-08 11:23:03,061 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:23:03,108 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:23:08,627 138  INFO 第0次调用API返回的结果
+2024-07-08 11:23:08,627 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:23:08,696 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:23:15,601 138  INFO 第0次调用API返回的结果
+2024-07-08 11:23:15,601 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:23:15,651 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:23:21,640 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:23:27,866 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:23:35,516 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:23:35,516 97  INFO 选出的主播是张天爱,他的风格是亲和力强
+2024-07-08 11:23:35,595 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:23:43,340 138  INFO 第0次调用API返回的结果
+2024-07-08 11:23:43,340 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:23:43,403 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:23:50,977 138  INFO 第0次调用API返回的结果
+2024-07-08 11:23:50,977 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:23:51,039 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:23:59,099 138  INFO 第0次调用API返回的结果
+2024-07-08 11:23:59,099 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:23:59,161 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:24:07,081 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:24:15,374 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:24:28,227 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:24:28,227 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:24:28,312 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:24:37,609 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:24:46,949 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:24:56,510 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:24:56,510 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:24:56,541 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-08 11:24:56,541 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:24:56,572 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-08 11:24:56,572 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:24:56,619 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-08 11:24:56,619 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:24:56,666 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-08 11:24:56,666 97  INFO 选出的主播是张天爱,他的风格是亲和力强
+2024-07-08 11:24:56,726 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:24:58,914 138  INFO 第0次调用API返回的结果
+2024-07-08 11:24:58,915 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:24:58,966 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:25:01,396 138  INFO 第0次调用API返回的结果
+2024-07-08 11:25:01,396 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:25:01,458 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:25:03,215 138  INFO 第0次调用API返回的结果
+2024-07-08 11:25:03,215 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:25:03,323 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:25:05,587 138  INFO 第0次调用API返回的结果
+2024-07-08 11:25:05,587 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:25:05,647 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:25:08,014 138  INFO 第0次调用API返回的结果
+2024-07-08 11:25:08,014 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:25:08,064 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:25:10,414 138  INFO 第0次调用API返回的结果
+2024-07-08 11:25:10,414 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:25:10,481 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:25:12,580 138  INFO 第0次调用API返回的结果
+2024-07-08 11:25:12,580 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:25:12,580 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:25:12,580 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:25:12,580 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:25:12,580 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:25:12,580 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:25:12,642 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:25:15,163 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:25:17,460 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:25:19,763 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:25:19,763 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:25:19,810 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:25:22,716 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:25:25,715 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:25:28,413 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:25:28,413 97  INFO 选出的主播是张天爱,他的风格是亲和力强
+2024-07-08 11:25:28,475 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:25:39,630 138  INFO 第0次调用API返回的结果
+2024-07-08 11:25:39,630 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:25:39,677 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:25:55,178 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:26:11,467 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:26:27,481 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:26:27,481 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:26:27,544 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:26:38,756 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:26:38,756 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:26:38,818 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:26:50,014 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:27:01,098 138  INFO 第1次调用API返回的结果
+2024-07-08 11:27:01,098 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:27:01,161 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:27:12,828 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:27:12,828 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:27:12,925 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:27:26,413 138  INFO 第0次调用API返回的结果
+2024-07-08 11:27:26,413 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:27:26,490 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:27:29,557 138  INFO 第0次调用API返回的结果
+2024-07-08 11:27:29,558 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:27:29,623 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:27:33,423 138  INFO 第0次调用API返回的结果
+2024-07-08 11:27:33,423 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:27:33,490 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:27:37,040 138  INFO 第0次调用API返回的结果
+2024-07-08 11:27:37,040 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:27:37,090 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:27:40,623 138  INFO 第0次调用API返回的结果
+2024-07-08 11:27:40,623 97  INFO 选出的主播是张沫凡,他的风格是亲和力强
+2024-07-08 11:27:40,670 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:27:44,621 138  INFO 第0次调用API返回的结果
+2024-07-08 11:27:44,621 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:27:44,793 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:27:49,059 138  INFO 第0次调用API返回的结果
+2024-07-08 11:27:49,059 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:27:49,119 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:27:53,502 138  INFO 第0次调用API返回的结果
+2024-07-08 11:27:53,502 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:27:53,564 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:27:58,845 138  INFO 第0次调用API返回的结果
+2024-07-08 11:27:58,845 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:27:58,907 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:28:04,810 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:28:04,810 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:28:04,861 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:28:10,222 138  INFO 第0次调用API返回的结果
+2024-07-08 11:28:10,222 97  INFO 选出的主播是张天爱,他的风格是亲和力强
+2024-07-08 11:28:10,284 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:28:17,321 138  INFO 第0次调用API返回的结果
+2024-07-08 11:28:17,321 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:28:17,368 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:28:25,464 138  INFO 第0次调用API返回的结果
+2024-07-08 11:28:25,464 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:28:25,526 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:28:35,959 138  INFO 第0次调用API返回的结果
+2024-07-08 11:28:35,959 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:28:36,006 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:28:46,094 138  INFO 第0次调用API返回的结果
+2024-07-08 11:28:46,094 97  INFO 选出的主播是张天爱,他的风格是亲和力强
+2024-07-08 11:28:46,186 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:29:01,415 138  INFO 第0次调用API返回的结果
+2024-07-08 11:29:01,415 97  INFO 选出的主播是林珊珊,他的风格是亲和力强
+2024-07-08 11:29:01,493 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:29:06,663 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:29:07,327 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:29:10,186 134  INFO 最后一次调用API返回的结果，【】有变化。
+2024-07-08 11:29:10,186 138  INFO 第2次调用API返回的结果
+2024-07-08 11:29:10,186 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:29:10,233 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:29:10,989 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:29:12,383 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:29:12,961 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:29:12,961 97  INFO 选出的主播是张天爱,他的风格是亲和力强
+2024-07-08 11:29:13,055 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:29:17,845 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:29:22,769 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:29:27,784 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:29:27,784 97  INFO 选出的主播是陈赫,他的风格是亲和力强
+2024-07-08 11:29:27,862 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:29:33,845 138  INFO 第0次调用API返回的结果
+2024-07-08 11:29:33,845 97  INFO 选出的主播是张沫凡,他的风格是亲和力强
+2024-07-08 11:29:33,907 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:29:40,383 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:29:40,383 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:29:40,452 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:29:47,602 138  INFO 第0次调用API返回的结果
+2024-07-08 11:29:47,602 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:29:47,680 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:29:55,243 138  INFO 第0次调用API返回的结果
+2024-07-08 11:29:55,243 97  INFO 选出的主播是张天爱,他的风格是亲和力强
+2024-07-08 11:29:55,305 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:30:02,226 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:30:22,474 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:30:31,879 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:30:31,879 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:30:31,957 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:30:38,207 138  INFO 第0次调用API返回的结果
+2024-07-08 11:30:38,207 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:30:38,269 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:30:44,862 138  INFO 第0次调用API返回的结果
+2024-07-08 11:30:44,862 97  INFO 选出的主播是张沫凡,他的风格是亲和力强
+2024-07-08 11:30:44,925 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:30:50,987 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:30:50,987 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:30:51,065 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:30:52,502 138  INFO 第0次调用API返回的结果
+2024-07-08 11:30:52,502 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:30:52,565 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:30:53,861 138  INFO 第0次调用API返回的结果
+2024-07-08 11:30:53,861 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:30:53,924 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:30:57,345 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:30:59,564 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:31:02,064 134  INFO 最后一次调用API返回的结果，【】有变化。
+2024-07-08 11:31:02,064 138  INFO 第2次调用API返回的结果
+2024-07-08 11:31:02,064 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:31:02,110 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:31:05,362 138  INFO 第0次调用API返回的结果
+2024-07-08 11:31:05,362 97  INFO 选出的主播是雪梨Cherie,他的风格是亲和力强
+2024-07-08 11:31:05,424 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:31:09,717 138  INFO 第0次调用API返回的结果
+2024-07-08 11:31:09,717 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:31:09,768 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:31:12,675 138  INFO 第0次调用API返回的结果
+2024-07-08 11:31:12,675 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:31:12,737 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:31:15,497 138  INFO 第0次调用API返回的结果
+2024-07-08 11:31:15,497 97  INFO 选出的主播是张天爱,他的风格是亲和力强
+2024-07-08 11:31:15,543 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:31:17,529 138  INFO 第0次调用API返回的结果
+2024-07-08 11:31:17,529 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:31:17,707 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:31:19,412 138  INFO 第0次调用API返回的结果
+2024-07-08 11:31:19,412 97  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-08 11:31:19,445 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-08 11:31:19,445 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:31:19,495 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:31:20,367 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:31:21,232 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:31:21,732 136  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-08 11:31:21,732 97  INFO 选出的主播是李湘,他的风格是亲和力强
+2024-07-08 11:31:21,794 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:31:26,658 138  INFO 第0次调用API返回的结果
+2024-07-08 11:31:26,658 97  INFO 选出的主播是阿沁,他的风格是亲和力强
+2024-07-08 11:31:26,720 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:31:31,674 138  INFO 第0次调用API返回的结果
+2024-07-08 11:31:31,674 97  INFO 选出的主播是张嘉倪,他的风格是亲和力强
+2024-07-08 11:31:31,742 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:31:36,612 138  INFO 第0次调用API返回的结果
+2024-07-08 11:31:36,612 97  INFO 选出的主播是张庭,他的风格是亲和力强
+2024-07-08 11:31:36,676 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-08 11:31:41,613 138  INFO 第0次调用API返回的结果

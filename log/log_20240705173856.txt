@@ -1,0 +1,618 @@
+2024-07-05 17:38:56,997 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:38:57,609 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:00,112 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:00,112 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:00,239 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:03,980 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:03,980 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:04,048 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:06,819 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:39:06,819 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:06,878 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:11,199 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:11,199 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:11,388 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:14,918 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:14,918 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:14,988 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:18,698 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:18,698 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:18,768 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:22,289 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:22,289 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:22,367 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:25,649 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:25,649 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:25,737 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:29,668 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:29,668 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:29,827 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:34,058 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:34,058 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:34,117 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:38,458 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:38,458 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:38,517 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:42,818 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:42,818 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:42,887 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:46,708 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:46,708 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:46,777 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:50,368 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:50,368 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:50,427 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:55,178 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:55,178 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:55,236 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:39:58,507 136  INFO 第0次调用API返回的结果
+2024-07-05 17:39:58,508 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:39:58,567 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:40:04,718 136  INFO 第0次调用API返回的结果
+2024-07-05 17:40:04,718 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:40:04,786 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:40:12,187 136  INFO 第0次调用API返回的结果
+2024-07-05 17:40:12,187 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:40:12,267 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:40:19,577 136  INFO 第0次调用API返回的结果
+2024-07-05 17:40:19,577 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:40:19,636 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:40:23,257 136  INFO 第0次调用API返回的结果
+2024-07-05 17:40:23,257 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:40:23,376 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:40:32,767 136  INFO 第0次调用API返回的结果
+2024-07-05 17:40:32,767 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:40:32,835 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:40:36,486 136  INFO 第0次调用API返回的结果
+2024-07-05 17:40:36,487 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:40:36,546 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:40:46,146 136  INFO 第0次调用API返回的结果
+2024-07-05 17:40:46,146 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:40:46,205 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:40:49,637 136  INFO 第0次调用API返回的结果
+2024-07-05 17:40:49,637 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:40:49,705 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:40:53,194 136  INFO 第0次调用API返回的结果
+2024-07-05 17:40:53,194 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:40:53,268 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:41:09,462 136  INFO 第0次调用API返回的结果
+2024-07-05 17:41:09,462 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:41:09,522 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:41:22,579 136  INFO 第0次调用API返回的结果
+2024-07-05 17:41:22,579 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:41:22,655 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:41:26,041 136  INFO 第0次调用API返回的结果
+2024-07-05 17:41:26,041 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:41:26,108 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:41:33,424 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:41:37,631 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:41:46,167 136  INFO 第2次调用API返回的结果
+2024-07-05 17:41:46,167 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:41:46,230 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:41:47,735 136  INFO 第0次调用API返回的结果
+2024-07-05 17:41:47,735 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:41:47,796 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:41:49,875 136  INFO 第0次调用API返回的结果
+2024-07-05 17:41:49,875 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:41:49,947 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:41:51,754 136  INFO 第0次调用API返回的结果
+2024-07-05 17:41:51,754 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:41:51,818 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:41:53,265 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:41:54,803 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:41:57,140 132  INFO 最后一次调用API返回的结果，【】有变化。
+2024-07-05 17:41:57,140 136  INFO 第2次调用API返回的结果
+2024-07-05 17:41:57,140 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:41:57,201 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:41:59,470 136  INFO 第0次调用API返回的结果
+2024-07-05 17:41:59,470 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:41:59,535 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:01,917 136  INFO 第0次调用API返回的结果
+2024-07-05 17:42:01,917 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:01,969 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:04,098 136  INFO 第0次调用API返回的结果
+2024-07-05 17:42:04,098 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:04,151 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:06,425 136  INFO 第0次调用API返回的结果
+2024-07-05 17:42:06,425 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:06,493 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:08,550 136  INFO 第0次调用API返回的结果
+2024-07-05 17:42:08,550 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:08,633 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:12,525 136  INFO 第0次调用API返回的结果
+2024-07-05 17:42:12,525 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:12,584 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:14,758 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:17,114 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:19,337 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:42:19,337 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:19,391 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:22,674 136  INFO 第0次调用API返回的结果
+2024-07-05 17:42:22,674 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:22,751 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:25,544 136  INFO 第0次调用API返回的结果
+2024-07-05 17:42:25,544 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:25,617 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:29,094 136  INFO 第0次调用API返回的结果
+2024-07-05 17:42:29,094 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:29,182 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:32,178 136  INFO 第0次调用API返回的结果
+2024-07-05 17:42:32,178 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:32,245 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:35,509 136  INFO 第0次调用API返回的结果
+2024-07-05 17:42:35,509 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:35,579 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:39,043 136  INFO 第0次调用API返回的结果
+2024-07-05 17:42:39,043 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:39,102 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:41,794 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:45,104 136  INFO 第1次调用API返回的结果
+2024-07-05 17:42:45,105 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:45,160 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:51,765 136  INFO 第0次调用API返回的结果
+2024-07-05 17:42:51,765 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:51,828 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:42:58,041 136  INFO 第0次调用API返回的结果
+2024-07-05 17:42:58,041 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:42:58,105 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:05,274 136  INFO 第0次调用API返回的结果
+2024-07-05 17:43:05,274 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:43:05,341 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:07,292 136  INFO 第0次调用API返回的结果
+2024-07-05 17:43:07,292 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:43:07,352 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:10,555 136  INFO 第0次调用API返回的结果
+2024-07-05 17:43:10,555 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:43:10,620 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:13,006 136  INFO 第0次调用API返回的结果
+2024-07-05 17:43:13,007 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:43:13,063 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:19,004 136  INFO 第0次调用API返回的结果
+2024-07-05 17:43:19,004 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:43:19,066 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:22,709 136  INFO 第0次调用API返回的结果
+2024-07-05 17:43:22,709 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:43:22,767 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:27,419 136  INFO 第0次调用API返回的结果
+2024-07-05 17:43:27,419 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:43:27,492 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:31,263 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:35,212 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:38,855 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:43:38,855 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:43:38,923 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:42,515 136  INFO 第0次调用API返回的结果
+2024-07-05 17:43:42,515 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:43:42,611 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:46,029 136  INFO 第0次调用API返回的结果
+2024-07-05 17:43:46,029 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:43:46,102 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:50,155 136  INFO 第0次调用API返回的结果
+2024-07-05 17:43:50,155 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:43:50,206 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:54,131 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:43:58,197 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:01,820 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:44:01,820 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:44:01,885 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:05,963 136  INFO 第0次调用API返回的结果
+2024-07-05 17:44:05,963 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:44:06,031 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:10,552 136  INFO 第0次调用API返回的结果
+2024-07-05 17:44:10,552 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:44:10,603 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:17,193 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:23,482 136  INFO 第1次调用API返回的结果
+2024-07-05 17:44:23,482 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:44:23,539 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:27,500 136  INFO 第0次调用API返回的结果
+2024-07-05 17:44:27,500 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:44:27,553 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:31,321 136  INFO 第0次调用API返回的结果
+2024-07-05 17:44:31,321 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:44:31,382 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:33,434 136  INFO 第0次调用API返回的结果
+2024-07-05 17:44:33,434 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:44:33,523 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:36,367 136  INFO 第0次调用API返回的结果
+2024-07-05 17:44:36,367 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:44:36,447 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:39,229 136  INFO 第0次调用API返回的结果
+2024-07-05 17:44:39,229 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:44:39,289 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:42,673 136  INFO 第0次调用API返回的结果
+2024-07-05 17:44:42,673 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:44:42,737 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:47,416 136  INFO 第0次调用API返回的结果
+2024-07-05 17:44:47,416 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:44:47,495 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:51,456 136  INFO 第0次调用API返回的结果
+2024-07-05 17:44:51,456 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:44:51,516 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:55,132 136  INFO 第0次调用API返回的结果
+2024-07-05 17:44:55,132 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:44:55,194 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:44:58,865 136  INFO 第0次调用API返回的结果
+2024-07-05 17:44:58,865 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:44:58,944 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:45:04,148 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:45:09,618 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:45:15,383 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:45:15,383 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:45:15,434 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:45:19,907 136  INFO 第0次调用API返回的结果
+2024-07-05 17:45:19,907 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:45:19,972 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:45:25,378 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:45:30,364 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:45:34,992 136  INFO 第2次调用API返回的结果
+2024-07-05 17:45:34,992 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:45:35,055 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:45:39,099 136  INFO 第0次调用API返回的结果
+2024-07-05 17:45:39,099 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:45:39,158 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:45:45,279 136  INFO 第0次调用API返回的结果
+2024-07-05 17:45:45,279 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:45:45,343 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:45:50,661 136  INFO 第0次调用API返回的结果
+2024-07-05 17:45:50,661 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:45:50,723 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:45:53,846 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:45:56,819 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:45:56,819 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:45:56,882 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:46:00,138 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:46:03,460 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:46:06,796 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:46:06,796 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:46:06,874 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:46:08,753 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:46:10,727 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:46:12,489 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:46:12,489 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:46:12,546 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:46:15,913 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:46:19,518 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:46:22,858 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:46:22,858 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:46:22,933 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:46:28,748 136  INFO 第0次调用API返回的结果
+2024-07-05 17:46:28,748 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:46:28,804 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:46:34,707 136  INFO 第0次调用API返回的结果
+2024-07-05 17:46:34,707 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:46:34,760 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:46:43,160 136  INFO 第0次调用API返回的结果
+2024-07-05 17:46:43,160 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:46:43,287 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:46:50,957 136  INFO 第0次调用API返回的结果
+2024-07-05 17:46:50,957 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:46:51,019 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:47:00,648 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:47:00,648 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:47:00,697 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:47:06,391 136  INFO 第0次调用API返回的结果
+2024-07-05 17:47:06,391 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:47:06,452 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:47:13,265 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:47:20,483 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:47:27,589 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:47:27,589 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:47:27,664 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:47:35,384 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:47:43,620 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:47:52,247 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:47:52,247 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:47:52,297 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:47:55,730 136  INFO 第0次调用API返回的结果
+2024-07-05 17:47:55,730 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:47:55,730 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:47:55,766 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 17:47:55,766 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:47:55,802 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 17:47:55,802 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:47:55,844 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 17:47:55,844 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:47:55,879 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 17:47:55,880 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:47:55,914 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 17:47:55,915 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:47:55,950 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 17:47:55,951 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:47:56,018 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:47:57,960 136  INFO 第0次调用API返回的结果
+2024-07-05 17:47:57,961 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:47:58,026 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:00,658 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:48:00,658 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:00,723 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:03,408 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:03,408 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:03,494 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:06,072 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:06,072 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:06,128 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:09,078 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:09,078 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:09,078 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:09,145 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:10,093 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:10,093 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:10,151 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:11,978 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:11,978 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:12,051 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:13,640 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:13,640 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:13,692 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:15,079 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:15,079 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:15,144 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:17,712 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:17,712 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:17,771 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:18,981 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:18,981 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:19,051 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:20,378 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:20,379 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:20,439 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:22,681 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:22,681 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:22,771 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:24,660 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:24,661 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:24,775 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:26,765 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:26,765 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:26,824 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:30,834 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:34,903 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:38,994 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:48:38,994 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:39,113 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:41,394 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:41,394 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:41,533 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:44,134 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:48:44,134 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:44,223 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:49,513 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:54,792 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:57,614 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:48:57,614 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:57,673 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:48:58,813 136  INFO 第0次调用API返回的结果
+2024-07-05 17:48:58,813 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:48:58,883 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:00,862 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:02,842 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:04,883 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:49:04,883 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:49:04,962 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:06,013 136  INFO 第0次调用API返回的结果
+2024-07-05 17:49:06,013 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:49:06,072 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:09,263 136  INFO 第0次调用API返回的结果
+2024-07-05 17:49:09,263 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:49:09,332 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:13,843 136  INFO 第0次调用API返回的结果
+2024-07-05 17:49:13,843 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:49:13,912 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:17,692 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:21,571 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:25,782 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:49:25,782 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:49:25,862 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:31,013 136  INFO 第0次调用API返回的结果
+2024-07-05 17:49:31,013 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:49:31,101 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:35,661 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:40,319 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:44,578 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:49:44,578 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:49:44,641 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:48,960 136  INFO 第0次调用API返回的结果
+2024-07-05 17:49:48,960 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:49:49,041 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:49:54,352 136  INFO 第0次调用API返回的结果
+2024-07-05 17:49:54,352 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:49:54,432 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:00,598 136  INFO 第0次调用API返回的结果
+2024-07-05 17:50:00,598 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:00,634 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 17:50:00,634 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:00,669 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 17:50:00,670 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:00,705 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 17:50:00,705 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:00,740 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 17:50:00,741 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:00,799 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:02,175 136  INFO 第0次调用API返回的结果
+2024-07-05 17:50:02,175 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:02,253 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:03,794 136  INFO 第0次调用API返回的结果
+2024-07-05 17:50:03,794 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:03,860 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:05,018 136  INFO 第0次调用API返回的结果
+2024-07-05 17:50:05,019 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:05,081 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:06,161 136  INFO 第0次调用API返回的结果
+2024-07-05 17:50:06,161 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:06,216 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:07,443 136  INFO 第0次调用API返回的结果
+2024-07-05 17:50:07,443 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:07,502 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:08,652 136  INFO 第0次调用API返回的结果
+2024-07-05 17:50:08,652 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:08,711 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:10,036 136  INFO 第0次调用API返回的结果
+2024-07-05 17:50:10,036 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:10,036 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:10,036 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:10,036 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:10,037 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:10,037 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:10,097 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:11,351 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:12,637 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:13,750 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:50:13,750 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:13,815 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:15,192 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:50:15,192 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:15,268 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:23,159 136  INFO 第0次调用API返回的结果
+2024-07-05 17:50:23,160 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:23,221 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:33,574 136  INFO 第0次调用API返回的结果
+2024-07-05 17:50:33,574 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:33,637 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:41,250 136  INFO 第0次调用API返回的结果
+2024-07-05 17:50:41,250 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:41,313 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:48,162 136  INFO 第0次调用API返回的结果
+2024-07-05 17:50:48,162 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:48,236 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:50:55,635 136  INFO 第0次调用API返回的结果
+2024-07-05 17:50:55,635 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:50:55,697 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:03,430 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:03,430 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:03,484 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:05,112 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:05,112 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:05,177 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:07,332 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:07,332 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:07,397 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:09,411 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:09,412 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:09,657 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:11,890 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:11,890 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:11,953 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:14,660 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:14,660 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:14,770 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:17,100 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:17,100 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:17,198 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:20,680 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:20,680 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:20,749 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:23,320 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:23,320 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:23,399 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:26,080 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:26,080 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:26,189 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:28,999 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:28,999 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:29,199 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:32,319 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:32,319 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:32,478 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:34,928 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:37,598 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:40,639 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:51:40,639 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:40,739 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:43,719 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:43,719 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:43,798 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:46,799 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:46,799 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:46,878 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:49,619 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:49,619 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:49,868 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:51,579 136  INFO 第0次调用API返回的结果
+2024-07-05 17:51:51,579 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:51,698 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:52,788 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:53,568 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:54,099 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:51:54,099 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:51:54,238 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:51:59,148 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:52:03,908 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:52:07,298 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:52:07,298 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:52:07,377 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:52:12,978 136  INFO 第0次调用API返回的结果
+2024-07-05 17:52:12,978 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:52:13,057 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:52:18,168 136  INFO 第0次调用API返回的结果
+2024-07-05 17:52:18,168 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:52:18,228 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:52:23,578 136  INFO 第0次调用API返回的结果
+2024-07-05 17:52:23,578 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:52:23,637 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:52:29,698 136  INFO 第0次调用API返回的结果
+2024-07-05 17:52:29,698 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:52:29,757 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:52:37,057 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:52:43,197 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:52:50,157 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:52:50,157 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:52:50,227 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:52:56,117 136  INFO 第0次调用API返回的结果
+2024-07-05 17:52:56,117 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:52:56,366 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:03,187 136  INFO 第0次调用API返回的结果
+2024-07-05 17:53:03,187 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:53:03,536 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:10,397 136  INFO 第0次调用API返回的结果
+2024-07-05 17:53:10,397 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:53:12,906 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:14,817 136  INFO 第0次调用API返回的结果
+2024-07-05 17:53:14,817 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:53:15,526 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:18,167 136  INFO 第0次调用API返回的结果
+2024-07-05 17:53:18,167 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:53:19,916 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:21,786 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:24,475 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:28,346 132  INFO 最后一次调用API返回的结果，【】有变化。
+2024-07-05 17:53:28,346 136  INFO 第2次调用API返回的结果
+2024-07-05 17:53:28,346 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:53:28,846 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:34,846 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:36,766 136  INFO 第1次调用API返回的结果
+2024-07-05 17:53:36,766 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:53:36,835 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:41,725 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:46,166 136  INFO 第1次调用API返回的结果
+2024-07-05 17:53:46,166 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:53:46,225 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:49,086 136  INFO 第0次调用API返回的结果
+2024-07-05 17:53:49,086 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:53:49,185 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:51,706 136  INFO 第0次调用API返回的结果
+2024-07-05 17:53:51,706 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:53:51,775 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:54,616 136  INFO 第0次调用API返回的结果
+2024-07-05 17:53:54,616 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:53:54,695 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:57,616 136  INFO 第0次调用API返回的结果
+2024-07-05 17:53:57,616 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:53:57,655 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-05 17:53:57,655 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:53:57,734 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:53:58,865 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:54:00,175 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:54:01,496 134  INFO 最后一次调用API返回的结果，编辑距离未达到要求。
+2024-07-05 17:54:01,496 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:54:01,554 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:54:06,545 136  INFO 第0次调用API返回的结果
+2024-07-05 17:54:06,545 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:54:06,604 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:54:11,405 136  INFO 第0次调用API返回的结果
+2024-07-05 17:54:11,405 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:54:11,465 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:54:16,835 136  INFO 第0次调用API返回的结果
+2024-07-05 17:54:16,835 95  INFO 选出的主播是薇娅,他的风格是亲和力强
+2024-07-05 17:54:16,894 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-05 17:54:22,105 136  INFO 第0次调用API返回的结果

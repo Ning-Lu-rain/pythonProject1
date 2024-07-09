@@ -1,0 +1,10 @@
+2024-07-04 17:38:35,814 62  INFO 选出的主播是张沫凡MOMO,他的风格是真实感强
+2024-07-04 17:38:36,063 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-04 17:38:39,297 62  INFO 选出的主播是阿沁,他的风格是真实感强
+2024-07-04 17:38:39,360 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-04 17:38:42,793 62  INFO 选出的主播是赵奕欢,他的风格是真实感强
+2024-07-04 17:38:42,843 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-04 17:38:45,616 62  INFO 选出的主播是张沫凡MOMO,他的风格是真实感强
+2024-07-04 17:38:45,685 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2024-07-04 17:38:48,052 62  INFO 选出的主播是赵奕欢,他的风格是真实感强
+2024-07-04 17:38:48,122 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"

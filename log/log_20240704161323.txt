@@ -1,0 +1,2 @@
+2024-07-04 16:13:23,726 49  INFO 选出的主播是罗永浩,他的风格是幽默风格
+2024-07-04 16:13:23,946 1026  INFO HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
